@@ -51,3 +51,10 @@ HWID :
 WINVER : 
 
 ---
+
+
+- Cheating Private will take 1-2 days to create from the moment of payment 
+- We will start the project in 1 hour. 
+- IF you have any questions, please ask in chat.
+
+---
