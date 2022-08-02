@@ -58,3 +58,19 @@ WINVER :
 - IF you have any questions, please ask in chat.
 
 ---
+
+Example 
+
+GAME : Valorant
+
+USERNAME & PASSWORD : sarnax / toq1022  
+
+EXTERNAL & INTERNAL : External
+
+FEATURE : Aimbot / esp / no recoil etc..
+
+HWID : SCSI\DiskBIOSTAR_______S100-240GBR081
+
+WINVER : ![image](https://user-images.githubusercontent.com/94861415/182467564-d2b46cb3-930e-4428-90b5-467533a5377d.png)
+
+
