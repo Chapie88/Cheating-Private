@@ -1,6 +1,6 @@
 <h2 align="center">
 
-Cheating Private
+Warning SCAMMER
 
 ---
 
